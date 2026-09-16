@@ -1,1 +1,2 @@
 atividade de gerencia de conf
+Alteração realizada diretamente na branch main pelo GitHub
