@@ -1,2 +1,4 @@
 atividade de gerencia de conf
+atividade de gerencia de conf
 Conteúdo adicionado na branch desenvolvimento
+Alteração realizada diretamente na branch main pelo GitHub.
